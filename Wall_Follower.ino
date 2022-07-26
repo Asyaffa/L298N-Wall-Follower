@@ -1,3 +1,8 @@
+/*
+    Written by Aqilla Rahman Musyaffa
+    Email: asyaffa777@gmail.com
+*/
+
 #include <HCSR04.h>
 
 #define IN1 8         //terminalMotorKananBelakang  
